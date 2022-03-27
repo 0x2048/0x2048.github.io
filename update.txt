@@ -1,5 +1,9 @@
 {
 "version":"1.2.0",
 "content":"bug fix",
-"force":0
+"force":0,
+"count":{
+  "ios":500,
+  "pc":500
+  }
 }
