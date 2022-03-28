@@ -1,9 +1,9 @@
 {
-"version":"1.2.0",
-"content":"bug fix",
+"version":"1.2.2",
+"content":"fix a crash bug during iPhones transmission.",
 "force":0,
 "count":{
-  "ios":500,
-  "pc":500
+  "ios":600,
+  "pc":600
   }
 }
