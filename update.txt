@@ -4,7 +4,7 @@
 "force":0,
 "free":{
   "week":0,
-  "month":0,
+  "month":3,
   "year":3
  }
 }
